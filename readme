@@ -4,6 +4,7 @@ gcc -o boat boat.c
 program will run with that data file
 
 *important to note the data file changes based on user input so here is a const
+this is BoatData.csv
 
 Osita,40,land,C,1000.07
 Run About,18,storage,13,200.50
