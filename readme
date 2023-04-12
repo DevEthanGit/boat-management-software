@@ -1,0 +1,5 @@
+run program 
+gcc -o boat boat.c
+./boat BoatData.csv
+program will run with that data file
+
